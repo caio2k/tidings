@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="16"/>
         <source>About Tidings</source>
-        <translation>Sobre Tidings</translation>
+        <translation>Sobre o Tidings</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="43"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="78"/>
         <source>Tidings is open source software licensed under the terms of </source>
-        <translation>Tidings é um software de código aberto licenciado sob os</translation>
+        <translation>Tidings é um software de código aberto licenciado sob os </translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../qml/pages/HintLoader.qml" line="142"/>
         <source>No more hints? Disable them in Settings.</source>
-        <translation>Cansado de dicas? Desabilite-as em Configurações</translation>
+        <translation>Chega de dicas? Desabilite-as em Configurações</translation>
     </message>
 </context>
 <context>
@@ -195,7 +195,7 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="27"/>
         <source>Show preview images</source>
-        <translation>Mostrar pré-visualizações das imagens</translation>
+        <translation>Pré-visualizar imagens</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="28"/>
@@ -220,22 +220,22 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="64"/>
         <source>If enabled, items have their background tinted in their tag color.</source>
-        <translation>Habilite para colorir o fundo de cada artigo com sua cor de etiqueta.</translation>
+        <translation>Habilite para colorir o fundo de cada artigo com sua cor correspondente.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="100"/>
         <source>Font scale:</source>
-        <translation>Escalar fonte:</translation>
+        <translation>Tamanho da fonte:</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="121"/>
         <source>Apply font scale to web view</source>
-        <translation>Escalar fonte da visualização web</translation>
+        <translation>Replicar fonte na visualização web</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="122"/>
         <source>If enabled, the font scale settings apply to the web view.</source>
-        <translation>Habilite para aplicar o mesmo fator de escala na visualização web.</translation>
+        <translation>Habilite para aplicar o mesmo fator de escala da fonte na visualização web.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="134"/>
@@ -245,12 +245,12 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="135"/>
         <source>If enabled, hints will guide you using the application.</source>
-        <translation>Habilite para que dicas sejam mostradas enquanto se usa o aplicativo.</translation>
+        <translation>Habilite para que dicas sejam mostradas durante o uso do aplicativo.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="91"/>
         <source>This setting changes the scale of the fonts in the feed view.</source>
-        <translation>Esta configuração muda o fator de escala da fonte na visualização do feed.</translation>
+        <translation>Altere o tamanho da fonte usado na visualização do feed.</translation>
     </message>
 </context>
 <context>
@@ -311,28 +311,28 @@
     <message>
         <location filename="../qml/pages/SourceEditDialog.qml" line="126"/>
         <source>Clearing the read status will cause all available items to be reloaded the next time.</source>
-        <translation>Remover o estado de leitura forçará o recarregamento de todos os itens disponíveis na próxima atualização.</translation>
+        <translation>A reinicialização do indicador de leitura força o recarregamento de todos os itens durante a próxima atualização.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourceEditDialog.qml" line="137"/>
         <source>Clear read status</source>
-        <translation>Remover estado de leitura</translation>
+        <translation>Reinicilizar indicador de leitura</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourceEditDialog.qml" line="139"/>
         <source>Clearing</source>
-        <translation>Removendo</translation>
+        <translation>Reinicializando</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourceEditDialog.qml" line="160"/>
         <source>Deleting will remove the feed and all of its items from the database.</source>
-        <translation>Remover apaga o feed e todos os seus items da base de dados.</translation>
+        <translation>A remoção do feed além de o apagar remove todos os seus items.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourceEditDialog.qml" line="172"/>
         <location filename="../qml/pages/SourceEditDialog.qml" line="174"/>
         <source>Delete</source>
-        <translation>Remover</translation>
+        <translation>Remover feed</translation>
     </message>
 </context>
 <context>
@@ -350,7 +350,7 @@
     <message>
         <location filename="../qml/pages/SourcesPage.qml" line="210"/>
         <source>About Tidings</source>
-        <translation>Sobre Tidings</translation>
+        <translation>Sobre o Tidings</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourcesPage.qml" line="218"/>
@@ -361,7 +361,7 @@
         <location filename="../qml/pages/SourcesPage.qml" line="226"/>
         <location filename="../qml/pages/SourcesPage.qml" line="229"/>
         <source>All read</source>
-        <translation>Marcar tudo como lido</translation>
+        <translation>Marcar todos como lidos</translation>
     </message>
     <message>
         <location filename="../qml/pages/SourcesPage.qml" line="238"/>
@@ -404,22 +404,22 @@
     <message>
         <location filename="../qml/pages/ViewPage.qml" line="208"/>
         <source>Previous</source>
-        <translation>Item anterior</translation>
+        <translation>Ir para artigo anterior</translation>
     </message>
     <message>
         <location filename="../qml/pages/ViewPage.qml" line="209"/>
         <source>Already at the beginning</source>
-        <translation>Primeiro item</translation>
+        <translation>Ir para artigo anterior</translation>
     </message>
     <message>
         <location filename="../qml/pages/ViewPage.qml" line="239"/>
         <source>Next</source>
-        <translation>Item seguinte</translation>
+        <translation>Ir para próximo artigo</translation>
     </message>
     <message>
         <location filename="../qml/pages/ViewPage.qml" line="240"/>
         <source>Already at the end</source>
-        <translation>Último item</translation>
+        <translation>Ir para próximo artigo</translation>
     </message>
     <message>
         <location filename="../qml/pages/ViewPage.qml" line="380"/>
